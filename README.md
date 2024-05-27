@@ -1,7 +1,3 @@
-Below is a README.md file for your GitHub project "YouTubeVideoSegmentDownloader". This README includes instructions for setup and usage on Linux, Windows, and macOS.
-
----
-
 # YouTubeVideoSegmentDownloader
 
 YouTubeVideoSegmentDownloader is a Python-based tool that allows users to download specific segments from YouTube videos. This script is useful for extracting and saving parts of YouTube videos quickly and easily.
@@ -62,7 +58,3 @@ Contributions to the YouTubeVideoSegmentDownloader are welcome. Please feel free
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README file provides a comprehensive guide to installing and using your script across different operating systems. Make sure to replace `yourusername` with your actual GitHub username in the repository URL.
